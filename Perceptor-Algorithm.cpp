@@ -65,7 +65,7 @@ int main() {
 	while((out << "Pass " << counter++ << ":" << endl) &&
 			 cnt++ < 1000 ) 
 	{
-		int s = rand() % 900;
+		int s = rand() % 1800;
 		speed = (double)s / 10.001;
 		out << "Speed : " << speed << endl;
 		bool verdict;
@@ -79,7 +79,11 @@ int main() {
 			out << "Outside speed limit.Blocked" << endl;
 		}
 		verdict = (speed < SPEED_LIMIT || (speed-SPEED_LIMIT) < eps );
-	
+		out << "Verdict : ";
+		if(verdict == prediction(speed))
+			out << "Correct decision" << endl;
+		else
+			out << "Wrong decision" << endl;
 		input << speed << " " << verdict << endl;
 		data.push_back(make_pair(speed,verdict));
 		out << endl;
