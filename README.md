@@ -1,3 +1,3 @@
-#Intro to Deep Learning with PyTorch
+# Intro to Deep Learning with PyTorch
 
 
