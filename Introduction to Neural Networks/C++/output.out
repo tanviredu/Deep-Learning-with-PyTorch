@@ -1,0 +1,5996 @@
+Initial limit : 1007722011.0000000000
+Pass 1:
+Speed : 31.7968203180
+new limit :1007722011.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 2:
+Speed : 154.084591541
+new limit :1007722011.000000000
+Inside speed limit..Passed
+Verdict : Wrong decision
+
+Pass 3:
+Speed : 141.185881412
+new limit :705405453.900000095
+Inside speed limit..Passed
+Verdict : Wrong decision
+
+Pass 4:
+Speed : 9.399060094
+new limit :345648747.051000059
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 5:
+Speed : 19.998000200
+new limit :169367960.694990039
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 6:
+Speed : 60.093990601
+new limit :82990375.380545139
+Inside speed limit..Passed
+Verdict : Wrong decision
+
+Pass 7:
+Speed : 58.994100590
+new limit :28465769.003526978
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 8:
+Speed : 116.188381162
+new limit :9763829.016209753
+Inside speed limit..Passed
+Verdict : Wrong decision
+
+Pass 9:
+Speed : 50.394960504
+new limit :2344379.320391962
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 10:
+Speed : 157.284271573
+new limit :562969.448426110
+Inside speed limit..Passed
+Verdict : Wrong decision
+
+Pass 11:
+Speed : 147.585241476
+new limit :94724.156716976
+Inside speed limit..Passed
+Verdict : Wrong decision
+
+Pass 12:
+Speed : 151.384861514
+new limit :11262.419377596
+Inside speed limit..Passed
+Verdict : Wrong decision
+
+Pass 13:
+Speed : 75.292470753
+new limit :1055.560608948
+Inside speed limit..Passed
+Verdict : Wrong decision
+
+Pass 14:
+Speed : 120.287971203
+new limit :172.987329900
+Inside speed limit..Passed
+Verdict : Wrong decision
+
+Pass 15:
+Speed : 99.890010999
+new limit :110.355500536
+Inside speed limit..Passed
+Verdict : Wrong decision
+
+Pass 16:
+Speed : 18.598140186
+new limit :89.174195263
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 17:
+Speed : 52.694730527
+new limit :78.795355679
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 18:
+Speed : 27.197280272
+new limit :73.156748975
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 19:
+Speed : 169.683031697
+new limit :69.209724283
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 20:
+Speed : 177.582241776
+new limit :66.446806998
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 21:
+Speed : 172.282771723
+new limit :64.512764898
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 22:
+Speed : 111.688831117
+new limit :63.158935429
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 23:
+Speed : 168.083191681
+new limit :62.211254800
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 24:
+Speed : 30.296970303
+new limit :61.547878360
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 25:
+Speed : 86.791320868
+new limit :61.083514852
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 26:
+Speed : 12.998700130
+new limit :60.758460396
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 27:
+Speed : 33.696630337
+new limit :60.530922278
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 28:
+Speed : 160.783921608
+new limit :60.371645594
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 29:
+Speed : 114.888511149
+new limit :60.260151916
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 30:
+Speed : 145.785421458
+new limit :60.182106341
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 31:
+Speed : 81.891810819
+new limit :60.127474439
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 32:
+Speed : 61.893810619
+new limit :60.089232107
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 33:
+Speed : 119.888011199
+new limit :60.062462475
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 34:
+Speed : 138.386161384
+new limit :60.043723733
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 35:
+Speed : 71.392860714
+new limit :60.030606613
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 36:
+Speed : 139.986001400
+new limit :60.021424629
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 37:
+Speed : 113.688631137
+new limit :60.014997240
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 38:
+Speed : 45.595440456
+new limit :60.010498068
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 39:
+Speed : 171.382861714
+new limit :60.007348648
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 40:
+Speed : 164.083591641
+new limit :60.005144053
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 41:
+Speed : 118.088191181
+new limit :60.003600837
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 42:
+Speed : 138.986101390
+new limit :60.002520586
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 43:
+Speed : 50.794920508
+new limit :60.001764410
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 44:
+Speed : 108.589141086
+new limit :60.001235087
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 45:
+Speed : 174.482551745
+new limit :60.000864561
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 46:
+Speed : 150.684931507
+new limit :60.000605193
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 47:
+Speed : 127.187281272
+new limit :60.000423635
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 48:
+Speed : 47.195280472
+new limit :60.000296544
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 49:
+Speed : 177.882211779
+new limit :60.000207581
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 50:
+Speed : 116.988301170
+new limit :60.000145307
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 51:
+Speed : 44.795520448
+new limit :60.000101715
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 52:
+Speed : 85.391460854
+new limit :60.000071200
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 53:
+Speed : 48.695130487
+new limit :60.000049840
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 54:
+Speed : 128.187181282
+new limit :60.000034888
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 55:
+Speed : 115.688431157
+new limit :60.000024422
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 56:
+Speed : 50.694930507
+new limit :60.000017095
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 57:
+Speed : 141.185881412
+new limit :60.000011967
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 58:
+Speed : 64.593540646
+new limit :60.000008377
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 59:
+Speed : 31.496850315
+new limit :60.000005864
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 60:
+Speed : 171.282871713
+new limit :60.000004105
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 61:
+Speed : 30.496950305
+new limit :60.000002873
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 62:
+Speed : 113.488651135
+new limit :60.000002011
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 63:
+Speed : 53.194680532
+new limit :60.000001408
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 64:
+Speed : 150.384961504
+new limit :60.000000986
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 65:
+Speed : 167.083291671
+new limit :60.000000690
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 66:
+Speed : 39.796020398
+new limit :60.000000483
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 67:
+Speed : 25.597440256
+new limit :60.000000338
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 68:
+Speed : 100.789921008
+new limit :60.000000237
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 69:
+Speed : 85.391460854
+new limit :60.000000166
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 70:
+Speed : 16.998300170
+new limit :60.000000116
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 71:
+Speed : 0.099990001
+new limit :60.000000081
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 72:
+Speed : 23.497650235
+new limit :60.000000057
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 73:
+Speed : 71.192880712
+new limit :60.000000040
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 74:
+Speed : 50.894910509
+new limit :60.000000028
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 75:
+Speed : 47.395260474
+new limit :60.000000019
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 76:
+Speed : 65.693430657
+new limit :60.000000014
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 77:
+Speed : 21.597840216
+new limit :60.000000010
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 78:
+Speed : 174.582541746
+new limit :60.000000007
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 79:
+Speed : 28.197180282
+new limit :60.000000005
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 80:
+Speed : 114.688531147
+new limit :60.000000003
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 81:
+Speed : 111.588841116
+new limit :60.000000002
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 82:
+Speed : 168.183181682
+new limit :60.000000002
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 83:
+Speed : 20.097990201
+new limit :60.000000001
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 84:
+Speed : 75.592440756
+new limit :60.000000001
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 85:
+Speed : 116.388361164
+new limit :60.000000001
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 86:
+Speed : 50.994900510
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 87:
+Speed : 126.287371263
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 88:
+Speed : 172.782721728
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 89:
+Speed : 115.688431157
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 90:
+Speed : 157.884211579
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 91:
+Speed : 164.083591641
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 92:
+Speed : 146.185381462
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 93:
+Speed : 6.599340066
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 94:
+Speed : 37.396260374
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 95:
+Speed : 31.796820318
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 96:
+Speed : 88.891110889
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 97:
+Speed : 77.192280772
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 98:
+Speed : 57.494250575
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 99:
+Speed : 104.889511049
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 100:
+Speed : 77.892210779
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 101:
+Speed : 169.683031697
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 102:
+Speed : 104.989501050
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 103:
+Speed : 16.598340166
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 104:
+Speed : 60.993900610
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 105:
+Speed : 71.192880712
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 106:
+Speed : 63.993600640
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 107:
+Speed : 41.895810419
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 108:
+Speed : 92.790720928
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 109:
+Speed : 153.884611539
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 110:
+Speed : 165.283471653
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 111:
+Speed : 122.787721228
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 112:
+Speed : 85.491450855
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 113:
+Speed : 153.584641536
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 114:
+Speed : 58.094190581
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 115:
+Speed : 76.292370763
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 116:
+Speed : 89.991000900
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 117:
+Speed : 109.189081092
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 118:
+Speed : 22.697730227
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 119:
+Speed : 178.082191781
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 120:
+Speed : 44.895510449
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 121:
+Speed : 95.790420958
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 122:
+Speed : 162.183781622
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 123:
+Speed : 106.289371063
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 124:
+Speed : 17.598240176
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 125:
+Speed : 114.788521148
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 126:
+Speed : 138.086191381
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 127:
+Speed : 21.697830217
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 128:
+Speed : 107.289271073
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 129:
+Speed : 110.788921108
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 130:
+Speed : 126.587341266
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 131:
+Speed : 100.389961004
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 132:
+Speed : 15.798420158
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 133:
+Speed : 146.785321468
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 134:
+Speed : 116.988301170
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 135:
+Speed : 76.792320768
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 136:
+Speed : 37.996200380
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 137:
+Speed : 96.290370963
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 138:
+Speed : 33.896610339
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 139:
+Speed : 46.095390461
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 140:
+Speed : 70.192980702
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 141:
+Speed : 19.298070193
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 142:
+Speed : 168.883111689
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 143:
+Speed : 70.892910709
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 144:
+Speed : 172.882711729
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 145:
+Speed : 46.995300470
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 146:
+Speed : 147.285271473
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 147:
+Speed : 178.082191781
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 148:
+Speed : 156.184381562
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 149:
+Speed : 85.191480852
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 150:
+Speed : 176.182381762
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 151:
+Speed : 116.288371163
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 152:
+Speed : 96.190380962
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 153:
+Speed : 73.692630737
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 154:
+Speed : 42.595740426
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 155:
+Speed : 28.997100290
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 156:
+Speed : 103.689631037
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 157:
+Speed : 95.990400960
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 158:
+Speed : 50.694930507
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 159:
+Speed : 30.996900310
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 160:
+Speed : 121.987801220
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 161:
+Speed : 177.282271773
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 162:
+Speed : 131.386861314
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 163:
+Speed : 137.786221378
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 164:
+Speed : 144.085591441
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 165:
+Speed : 163.683631637
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 166:
+Speed : 129.787021298
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 167:
+Speed : 2.199780022
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 168:
+Speed : 79.992000800
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 169:
+Speed : 163.783621638
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 170:
+Speed : 143.485651435
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 171:
+Speed : 65.393460654
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 172:
+Speed : 98.290170983
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 173:
+Speed : 132.386761324
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 174:
+Speed : 136.286371363
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 175:
+Speed : 6.399360064
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 176:
+Speed : 94.590540946
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 177:
+Speed : 103.589641036
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 178:
+Speed : 4.499550045
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 179:
+Speed : 166.083391661
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 180:
+Speed : 103.989601040
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 181:
+Speed : 95.990400960
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 182:
+Speed : 102.389761024
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 183:
+Speed : 20.197980202
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 184:
+Speed : 84.891510849
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 185:
+Speed : 60.293970603
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 186:
+Speed : 49.195080492
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 187:
+Speed : 8.599140086
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 188:
+Speed : 71.492850715
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 189:
+Speed : 99.890010999
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 190:
+Speed : 134.886511349
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 191:
+Speed : 13.498650135
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 192:
+Speed : 12.398760124
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 193:
+Speed : 1.499850015
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 194:
+Speed : 66.593340666
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 195:
+Speed : 156.584341566
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 196:
+Speed : 80.391960804
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 197:
+Speed : 16.398360164
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 198:
+Speed : 73.992600740
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 199:
+Speed : 75.592440756
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 200:
+Speed : 95.390460954
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 201:
+Speed : 37.496250375
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 202:
+Speed : 140.985901410
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 203:
+Speed : 108.889111089
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 204:
+Speed : 85.091490851
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 205:
+Speed : 97.390260974
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 206:
+Speed : 115.288471153
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 207:
+Speed : 179.682031797
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 208:
+Speed : 116.188381162
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 209:
+Speed : 119.888011199
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 210:
+Speed : 165.783421658
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 211:
+Speed : 40.295970403
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 212:
+Speed : 131.086891311
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 213:
+Speed : 3.499650035
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 214:
+Speed : 155.684431557
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 215:
+Speed : 131.186881312
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 216:
+Speed : 158.984101590
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 217:
+Speed : 24.997500250
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 218:
+Speed : 54.994500550
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 219:
+Speed : 50.494950505
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 220:
+Speed : 40.095990401
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 221:
+Speed : 9.899010099
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 222:
+Speed : 159.184081592
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 223:
+Speed : 52.594740526
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 224:
+Speed : 106.689331067
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 225:
+Speed : 140.985901410
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 226:
+Speed : 124.387561244
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 227:
+Speed : 7.099290071
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 228:
+Speed : 157.484251575
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 229:
+Speed : 18.398160184
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 230:
+Speed : 177.982201780
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 231:
+Speed : 168.083191681
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 232:
+Speed : 151.084891511
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 233:
+Speed : 138.986101390
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 234:
+Speed : 97.090290971
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 235:
+Speed : 56.194380562
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 236:
+Speed : 151.584841516
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 237:
+Speed : 32.396760324
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 238:
+Speed : 151.084891511
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 239:
+Speed : 87.891210879
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 240:
+Speed : 67.493250675
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 241:
+Speed : 52.194780522
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 242:
+Speed : 43.395660434
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 243:
+Speed : 113.788621138
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 244:
+Speed : 55.694430557
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 245:
+Speed : 19.098090191
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 246:
+Speed : 64.993500650
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 247:
+Speed : 129.887011299
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 248:
+Speed : 44.095590441
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 249:
+Speed : 120.087991201
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 250:
+Speed : 95.590440956
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 251:
+Speed : 84.291570843
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 252:
+Speed : 45.195480452
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 253:
+Speed : 74.792520748
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 254:
+Speed : 52.094790521
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 255:
+Speed : 67.093290671
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 256:
+Speed : 35.896410359
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 257:
+Speed : 176.482351765
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 258:
+Speed : 169.483051695
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 259:
+Speed : 108.589141086
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 260:
+Speed : 110.088991101
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 261:
+Speed : 167.483251675
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 262:
+Speed : 11.898810119
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 263:
+Speed : 81.191880812
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 264:
+Speed : 126.487351265
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 265:
+Speed : 108.989101090
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 266:
+Speed : 52.594740526
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 267:
+Speed : 98.190180982
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 268:
+Speed : 56.694330567
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 269:
+Speed : 118.888111189
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 270:
+Speed : 101.289871013
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 271:
+Speed : 39.396060394
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 272:
+Speed : 171.082891711
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 273:
+Speed : 144.685531447
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 274:
+Speed : 153.284671533
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 275:
+Speed : 141.985801420
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 276:
+Speed : 163.783621638
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 277:
+Speed : 133.486651335
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 278:
+Speed : 91.890810919
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 279:
+Speed : 123.187681232
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 280:
+Speed : 73.592640736
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 281:
+Speed : 7.499250075
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 282:
+Speed : 27.497250275
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 283:
+Speed : 34.096590341
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 284:
+Speed : 177.582241776
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 285:
+Speed : 79.592040796
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 286:
+Speed : 101.189881012
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 287:
+Speed : 128.687131287
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 288:
+Speed : 171.282871713
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 289:
+Speed : 90.690930907
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 290:
+Speed : 57.294270573
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 291:
+Speed : 101.389861014
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 292:
+Speed : 78.192180782
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 293:
+Speed : 69.193080692
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 294:
+Speed : 2.599740026
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 295:
+Speed : 119.988001200
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 296:
+Speed : 93.490650935
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 297:
+Speed : 150.384961504
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 298:
+Speed : 133.386661334
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 299:
+Speed : 150.184981502
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 300:
+Speed : 89.291070893
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 301:
+Speed : 54.694530547
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 302:
+Speed : 9.599040096
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 303:
+Speed : 80.491950805
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 304:
+Speed : 19.398060194
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 305:
+Speed : 78.092190781
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 306:
+Speed : 137.686231377
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 307:
+Speed : 3.199680032
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 308:
+Speed : 31.696830317
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 309:
+Speed : 49.695030497
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 310:
+Speed : 126.387361264
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 311:
+Speed : 20.497950205
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 312:
+Speed : 152.384761524
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 313:
+Speed : 69.093090691
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 314:
+Speed : 54.594540546
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 315:
+Speed : 65.193480652
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 316:
+Speed : 63.893610639
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 317:
+Speed : 155.884411559
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 318:
+Speed : 13.898610139
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 319:
+Speed : 55.194480552
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 320:
+Speed : 161.783821618
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 321:
+Speed : 71.192880712
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 322:
+Speed : 156.584341566
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 323:
+Speed : 155.284471553
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 324:
+Speed : 55.694430557
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 325:
+Speed : 74.392560744
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 326:
+Speed : 95.290470953
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 327:
+Speed : 64.393560644
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 328:
+Speed : 44.795520448
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 329:
+Speed : 48.695130487
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 330:
+Speed : 129.787021298
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 331:
+Speed : 49.395060494
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 332:
+Speed : 18.598140186
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 333:
+Speed : 139.386061394
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 334:
+Speed : 129.887011299
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 335:
+Speed : 37.996200380
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 336:
+Speed : 132.786721328
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 337:
+Speed : 87.591240876
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 338:
+Speed : 136.386361364
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 339:
+Speed : 164.483551645
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 340:
+Speed : 52.494750525
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 341:
+Speed : 178.082191781
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 342:
+Speed : 4.999500050
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 343:
+Speed : 120.187981202
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 344:
+Speed : 162.383761624
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 345:
+Speed : 154.884511549
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 346:
+Speed : 5.399460054
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 347:
+Speed : 141.585841416
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 348:
+Speed : 45.995400460
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 349:
+Speed : 19.398060194
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 350:
+Speed : 16.798320168
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 351:
+Speed : 27.797220278
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 352:
+Speed : 5.799420058
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 353:
+Speed : 88.691130887
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 354:
+Speed : 98.290170983
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 355:
+Speed : 61.493850615
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 356:
+Speed : 78.292170783
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 357:
+Speed : 108.789121088
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 358:
+Speed : 41.095890411
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 359:
+Speed : 38.396160384
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 360:
+Speed : 157.484251575
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 361:
+Speed : 170.882911709
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 362:
+Speed : 87.791220878
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 363:
+Speed : 91.290870913
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 364:
+Speed : 45.595440456
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 365:
+Speed : 37.696230377
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 366:
+Speed : 44.495550445
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 367:
+Speed : 178.382161784
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 368:
+Speed : 40.495950405
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 369:
+Speed : 0.999900010
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 370:
+Speed : 78.092190781
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 371:
+Speed : 8.299170083
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 372:
+Speed : 94.290570943
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 373:
+Speed : 178.282171783
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 374:
+Speed : 128.487151285
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 375:
+Speed : 171.882811719
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 376:
+Speed : 153.184681532
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 377:
+Speed : 133.886611339
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 378:
+Speed : 133.486651335
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 379:
+Speed : 19.198080192
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 380:
+Speed : 68.493150685
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 381:
+Speed : 65.593440656
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 382:
+Speed : 142.285771423
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 383:
+Speed : 74.392560744
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 384:
+Speed : 154.284571543
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 385:
+Speed : 60.593940606
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 386:
+Speed : 51.094890511
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 387:
+Speed : 147.785221478
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 388:
+Speed : 169.483051695
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 389:
+Speed : 92.290770923
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 390:
+Speed : 6.199380062
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 391:
+Speed : 62.193780622
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 392:
+Speed : 83.191680832
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 393:
+Speed : 93.990600940
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 394:
+Speed : 153.584641536
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 395:
+Speed : 128.787121288
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 396:
+Speed : 46.895310469
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 397:
+Speed : 18.098190181
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 398:
+Speed : 42.395760424
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 399:
+Speed : 2.699730027
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 400:
+Speed : 114.288571143
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 401:
+Speed : 120.487951205
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 402:
+Speed : 10.998900110
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 403:
+Speed : 123.787621238
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 404:
+Speed : 118.888111189
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 405:
+Speed : 54.694530547
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 406:
+Speed : 115.788421158
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 407:
+Speed : 92.090790921
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 408:
+Speed : 8.599140086
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 409:
+Speed : 69.293070693
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 410:
+Speed : 26.597340266
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 411:
+Speed : 172.382761724
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 412:
+Speed : 134.886511349
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 413:
+Speed : 168.883111689
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 414:
+Speed : 66.793320668
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 415:
+Speed : 24.397560244
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 416:
+Speed : 144.685531447
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 417:
+Speed : 33.096690331
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 418:
+Speed : 87.491250875
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 419:
+Speed : 134.186581342
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 420:
+Speed : 125.387461254
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 421:
+Speed : 93.690630937
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 422:
+Speed : 111.688831117
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 423:
+Speed : 123.887611239
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 424:
+Speed : 102.989701030
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 425:
+Speed : 0.499950005
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 426:
+Speed : 167.883211679
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 427:
+Speed : 149.885011499
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 428:
+Speed : 18.598140186
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 429:
+Speed : 30.396960304
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 430:
+Speed : 152.584741526
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 431:
+Speed : 48.195180482
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 432:
+Speed : 66.093390661
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 433:
+Speed : 78.792120788
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 434:
+Speed : 171.982801720
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 435:
+Speed : 4.999500050
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 436:
+Speed : 133.486651335
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 437:
+Speed : 22.997700230
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 438:
+Speed : 12.398760124
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 439:
+Speed : 57.394260574
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 440:
+Speed : 92.390760924
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 441:
+Speed : 38.996100390
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 442:
+Speed : 49.795020498
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 443:
+Speed : 142.485751425
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 444:
+Speed : 123.087691231
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 445:
+Speed : 31.796820318
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 446:
+Speed : 82.191780822
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 447:
+Speed : 2.999700030
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 448:
+Speed : 64.893510649
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 449:
+Speed : 169.683031697
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 450:
+Speed : 52.494750525
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 451:
+Speed : 105.589441056
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 452:
+Speed : 83.391660834
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 453:
+Speed : 164.183581642
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 454:
+Speed : 144.685531447
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 455:
+Speed : 6.399360064
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 456:
+Speed : 164.683531647
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 457:
+Speed : 132.586741326
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 458:
+Speed : 71.592840716
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 459:
+Speed : 98.490150985
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 460:
+Speed : 78.192180782
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 461:
+Speed : 139.386061394
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 462:
+Speed : 61.893810619
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 463:
+Speed : 144.385561444
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 464:
+Speed : 38.296170383
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 465:
+Speed : 149.185081492
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 466:
+Speed : 149.385061494
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 467:
+Speed : 86.991300870
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 468:
+Speed : 172.182781722
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 469:
+Speed : 76.992300770
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 470:
+Speed : 144.385561444
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 471:
+Speed : 84.591540846
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 472:
+Speed : 115.988401160
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 473:
+Speed : 14.198580142
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 474:
+Speed : 142.385761424
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 475:
+Speed : 154.284571543
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 476:
+Speed : 141.185881412
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 477:
+Speed : 44.595540446
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 478:
+Speed : 157.384261574
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 479:
+Speed : 26.197380262
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 480:
+Speed : 34.296570343
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 481:
+Speed : 29.897010299
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 482:
+Speed : 131.786821318
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 483:
+Speed : 32.896710329
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 484:
+Speed : 109.289071093
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 485:
+Speed : 96.490350965
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 486:
+Speed : 134.586541346
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 487:
+Speed : 9.199080092
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 488:
+Speed : 144.285571443
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 489:
+Speed : 26.197380262
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 490:
+Speed : 22.897710229
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 491:
+Speed : 42.595740426
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 492:
+Speed : 80.791920808
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 493:
+Speed : 84.891510849
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 494:
+Speed : 6.999300070
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 495:
+Speed : 119.088091191
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 496:
+Speed : 54.094590541
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 497:
+Speed : 71.592840716
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 498:
+Speed : 26.197380262
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 499:
+Speed : 46.295370463
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 500:
+Speed : 148.685131487
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 501:
+Speed : 85.791420858
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 502:
+Speed : 46.195380462
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 503:
+Speed : 179.882011799
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 504:
+Speed : 100.089991001
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 505:
+Speed : 8.599140086
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 506:
+Speed : 69.493050695
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 507:
+Speed : 61.293870613
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 508:
+Speed : 53.194680532
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 509:
+Speed : 46.895310469
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 510:
+Speed : 2.699730027
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 511:
+Speed : 87.491250875
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 512:
+Speed : 171.982801720
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 513:
+Speed : 49.695030497
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 514:
+Speed : 35.596440356
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 515:
+Speed : 16.498350165
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 516:
+Speed : 61.393860614
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 517:
+Speed : 170.182981702
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 518:
+Speed : 25.697430257
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 519:
+Speed : 25.797420258
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 520:
+Speed : 111.588841116
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 521:
+Speed : 48.595140486
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 522:
+Speed : 163.583641636
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 523:
+Speed : 12.498750125
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 524:
+Speed : 48.695130487
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 525:
+Speed : 85.791420858
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 526:
+Speed : 46.795320468
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 527:
+Speed : 102.789721028
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 528:
+Speed : 157.384261574
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 529:
+Speed : 72.992700730
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 530:
+Speed : 64.393560644
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 531:
+Speed : 126.087391261
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 532:
+Speed : 158.884111589
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 533:
+Speed : 110.588941106
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 534:
+Speed : 41.295870413
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 535:
+Speed : 174.182581742
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 536:
+Speed : 119.188081192
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 537:
+Speed : 110.788921108
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 538:
+Speed : 150.684931507
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 539:
+Speed : 87.591240876
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 540:
+Speed : 72.892710729
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 541:
+Speed : 68.693130687
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 542:
+Speed : 90.290970903
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 543:
+Speed : 160.083991601
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 544:
+Speed : 118.388161184
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 545:
+Speed : 125.887411259
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 546:
+Speed : 176.582341766
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 547:
+Speed : 95.090490951
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 548:
+Speed : 116.188381162
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 549:
+Speed : 117.488251175
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 550:
+Speed : 120.887911209
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 551:
+Speed : 142.985701430
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 552:
+Speed : 81.291870813
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 553:
+Speed : 19.698030197
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 554:
+Speed : 155.484451555
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 555:
+Speed : 130.086991301
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 556:
+Speed : 105.489451055
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 557:
+Speed : 22.397760224
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 558:
+Speed : 148.085191481
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 559:
+Speed : 82.891710829
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 560:
+Speed : 10.598940106
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 561:
+Speed : 32.496750325
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 562:
+Speed : 124.287571243
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 563:
+Speed : 84.691530847
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 564:
+Speed : 143.085691431
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 565:
+Speed : 165.583441656
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 566:
+Speed : 174.082591741
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 567:
+Speed : 177.482251775
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 568:
+Speed : 96.390360964
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 569:
+Speed : 60.093990601
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 570:
+Speed : 85.091490851
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 571:
+Speed : 84.491550845
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 572:
+Speed : 128.787121288
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 573:
+Speed : 90.590940906
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 574:
+Speed : 64.593540646
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 575:
+Speed : 162.383761624
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 576:
+Speed : 36.596340366
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 577:
+Speed : 61.193880612
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 578:
+Speed : 77.492250775
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 579:
+Speed : 67.993200680
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 580:
+Speed : 93.890610939
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 581:
+Speed : 113.588641136
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 582:
+Speed : 30.996900310
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 583:
+Speed : 175.182481752
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 584:
+Speed : 133.286671333
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 585:
+Speed : 101.789821018
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 586:
+Speed : 125.287471253
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 587:
+Speed : 153.984601540
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 588:
+Speed : 124.187581242
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 589:
+Speed : 8.699130087
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 590:
+Speed : 56.994300570
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 591:
+Speed : 49.995000500
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 592:
+Speed : 41.195880412
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 593:
+Speed : 96.490350965
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 594:
+Speed : 134.786521348
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 595:
+Speed : 99.590040996
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 596:
+Speed : 177.282271773
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 597:
+Speed : 128.887111289
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 598:
+Speed : 12.298770123
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 599:
+Speed : 8.899110089
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 600:
+Speed : 104.189581042
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 601:
+Speed : 12.698730127
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 602:
+Speed : 93.390660934
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 603:
+Speed : 52.994700530
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 604:
+Speed : 103.289671033
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 605:
+Speed : 157.984201580
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 606:
+Speed : 130.686931307
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 607:
+Speed : 139.886011399
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 608:
+Speed : 134.386561344
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 609:
+Speed : 28.197180282
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 610:
+Speed : 27.897210279
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 611:
+Speed : 48.295170483
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 612:
+Speed : 57.094290571
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 613:
+Speed : 154.184581542
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 614:
+Speed : 43.495650435
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 615:
+Speed : 105.589441056
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 616:
+Speed : 75.992400760
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 617:
+Speed : 84.091590841
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 618:
+Speed : 79.692030797
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 619:
+Speed : 115.388461154
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 620:
+Speed : 92.790720928
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 621:
+Speed : 51.894810519
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 622:
+Speed : 165.383461654
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 623:
+Speed : 49.195080492
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 624:
+Speed : 63.593640636
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 625:
+Speed : 35.396460354
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 626:
+Speed : 148.785121488
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 627:
+Speed : 60.893910609
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 628:
+Speed : 79.592040796
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 629:
+Speed : 161.183881612
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 630:
+Speed : 69.793020698
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 631:
+Speed : 3.799620038
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 632:
+Speed : 173.882611739
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 633:
+Speed : 163.183681632
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 634:
+Speed : 152.084791521
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 635:
+Speed : 12.398760124
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 636:
+Speed : 56.394360564
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 637:
+Speed : 102.789721028
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 638:
+Speed : 152.384761524
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 639:
+Speed : 10.798920108
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 640:
+Speed : 46.195380462
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 641:
+Speed : 95.490450955
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 642:
+Speed : 59.094090591
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 643:
+Speed : 103.289671033
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 644:
+Speed : 164.883511649
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 645:
+Speed : 17.798220178
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 646:
+Speed : 124.187581242
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 647:
+Speed : 60.893910609
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 648:
+Speed : 101.889811019
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 649:
+Speed : 23.897610239
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 650:
+Speed : 91.490850915
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 651:
+Speed : 109.889011099
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 652:
+Speed : 170.982901710
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 653:
+Speed : 76.992300770
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 654:
+Speed : 159.184081592
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 655:
+Speed : 54.594540546
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 656:
+Speed : 112.388761124
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 657:
+Speed : 43.195680432
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 658:
+Speed : 30.696930307
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 659:
+Speed : 11.998800120
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 660:
+Speed : 119.588041196
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 661:
+Speed : 100.489951005
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 662:
+Speed : 111.088891111
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 663:
+Speed : 28.697130287
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 664:
+Speed : 178.882111789
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 665:
+Speed : 83.191680832
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 666:
+Speed : 41.195880412
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 667:
+Speed : 150.484951505
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 668:
+Speed : 5.999400060
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 669:
+Speed : 13.598640136
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 670:
+Speed : 161.283871613
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 671:
+Speed : 52.194780522
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 672:
+Speed : 24.297570243
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 673:
+Speed : 135.586441356
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 674:
+Speed : 70.792920708
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 675:
+Speed : 9.299070093
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 676:
+Speed : 153.384661534
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 677:
+Speed : 14.998500150
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 678:
+Speed : 165.383461654
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 679:
+Speed : 170.582941706
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 680:
+Speed : 134.086591341
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 681:
+Speed : 76.992300770
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 682:
+Speed : 100.489951005
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 683:
+Speed : 125.087491251
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 684:
+Speed : 69.193080692
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 685:
+Speed : 79.692030797
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 686:
+Speed : 94.890510949
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 687:
+Speed : 96.790320968
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 688:
+Speed : 122.987701230
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 689:
+Speed : 125.587441256
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 690:
+Speed : 24.097590241
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 691:
+Speed : 62.593740626
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 692:
+Speed : 141.285871413
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 693:
+Speed : 135.186481352
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 694:
+Speed : 91.390860914
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 695:
+Speed : 55.394460554
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 696:
+Speed : 38.396160384
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 697:
+Speed : 132.586741326
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 698:
+Speed : 25.897410259
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 699:
+Speed : 44.395560444
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 700:
+Speed : 61.393860614
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 701:
+Speed : 102.389761024
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 702:
+Speed : 11.798820118
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 703:
+Speed : 85.691430857
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 704:
+Speed : 57.994200580
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 705:
+Speed : 82.591740826
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 706:
+Speed : 10.198980102
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 707:
+Speed : 126.587341266
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 708:
+Speed : 97.590240976
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 709:
+Speed : 175.682431757
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 710:
+Speed : 117.188281172
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 711:
+Speed : 146.885311469
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 712:
+Speed : 167.883211679
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 713:
+Speed : 37.796220378
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 714:
+Speed : 7.199280072
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 715:
+Speed : 57.094290571
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 716:
+Speed : 117.488251175
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 717:
+Speed : 102.089791021
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 718:
+Speed : 69.093090691
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 719:
+Speed : 155.684431557
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 720:
+Speed : 142.885711429
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 721:
+Speed : 93.190680932
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 722:
+Speed : 133.586641336
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 723:
+Speed : 19.398060194
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 724:
+Speed : 48.395160484
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 725:
+Speed : 140.185981402
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 726:
+Speed : 169.983001700
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 727:
+Speed : 86.791320868
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 728:
+Speed : 7.999200080
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 729:
+Speed : 15.898410159
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 730:
+Speed : 46.395360464
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 731:
+Speed : 69.393060694
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 732:
+Speed : 33.496650335
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 733:
+Speed : 58.294170583
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 734:
+Speed : 70.292970703
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 735:
+Speed : 91.490850915
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 736:
+Speed : 140.885911409
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 737:
+Speed : 175.782421758
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 738:
+Speed : 38.196180382
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 739:
+Speed : 153.784621538
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 740:
+Speed : 171.482851715
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 741:
+Speed : 70.592940706
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 742:
+Speed : 120.687931207
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 743:
+Speed : 74.592540746
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 744:
+Speed : 108.389161084
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 745:
+Speed : 43.195680432
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 746:
+Speed : 46.895310469
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 747:
+Speed : 141.185881412
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 748:
+Speed : 60.493950605
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 749:
+Speed : 115.988401160
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 750:
+Speed : 32.096790321
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 751:
+Speed : 23.497650235
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 752:
+Speed : 29.297070293
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 753:
+Speed : 165.683431657
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 754:
+Speed : 138.086191381
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 755:
+Speed : 172.882711729
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 756:
+Speed : 125.887411259
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 757:
+Speed : 128.187181282
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 758:
+Speed : 79.792020798
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 759:
+Speed : 133.886611339
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 760:
+Speed : 59.294070593
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 761:
+Speed : 126.187381262
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 762:
+Speed : 118.488151185
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 763:
+Speed : 92.890710929
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 764:
+Speed : 99.690030997
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 765:
+Speed : 104.089591041
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 766:
+Speed : 99.590040996
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 767:
+Speed : 155.884411559
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 768:
+Speed : 99.890010999
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 769:
+Speed : 52.994700530
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 770:
+Speed : 129.687031297
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 771:
+Speed : 6.599340066
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 772:
+Speed : 123.687631237
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 773:
+Speed : 165.583441656
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 774:
+Speed : 81.191880812
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 775:
+Speed : 52.094790521
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 776:
+Speed : 28.797120288
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 777:
+Speed : 43.295670433
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 778:
+Speed : 108.489151085
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 779:
+Speed : 89.391060894
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 780:
+Speed : 159.284071593
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 781:
+Speed : 140.685931407
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 782:
+Speed : 28.097190281
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 783:
+Speed : 103.789621038
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 784:
+Speed : 126.387361264
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 785:
+Speed : 81.391860814
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 786:
+Speed : 96.790320968
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 787:
+Speed : 167.583241676
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 788:
+Speed : 29.597040296
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 789:
+Speed : 176.582341766
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 790:
+Speed : 36.696330367
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 791:
+Speed : 4.199580042
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 792:
+Speed : 37.996200380
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 793:
+Speed : 70.492950705
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 794:
+Speed : 97.090290971
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 795:
+Speed : 52.994700530
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 796:
+Speed : 89.791020898
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 797:
+Speed : 111.888811119
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 798:
+Speed : 28.897110289
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 799:
+Speed : 9.699030097
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 800:
+Speed : 164.983501650
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 801:
+Speed : 158.584141586
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 802:
+Speed : 111.488851115
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 803:
+Speed : 108.689131087
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 804:
+Speed : 59.394060594
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 805:
+Speed : 107.889211079
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 806:
+Speed : 75.992400760
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 807:
+Speed : 3.499650035
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 808:
+Speed : 151.184881512
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 809:
+Speed : 4.599540046
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 810:
+Speed : 8.099190081
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 811:
+Speed : 45.695430457
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 812:
+Speed : 145.285471453
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 813:
+Speed : 131.386861314
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 814:
+Speed : 149.585041496
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 815:
+Speed : 6.899310069
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 816:
+Speed : 32.796720328
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 817:
+Speed : 66.393360664
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 818:
+Speed : 89.691030897
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 819:
+Speed : 157.684231577
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 820:
+Speed : 158.184181582
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 821:
+Speed : 41.695830417
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 822:
+Speed : 161.883811619
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 823:
+Speed : 111.388861114
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 824:
+Speed : 112.188781122
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 825:
+Speed : 174.182581742
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 826:
+Speed : 164.383561644
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 827:
+Speed : 21.997800220
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 828:
+Speed : 106.089391061
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 829:
+Speed : 13.298670133
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 830:
+Speed : 126.887311269
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 831:
+Speed : 91.090890911
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 832:
+Speed : 87.091290871
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 833:
+Speed : 58.394160584
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 834:
+Speed : 19.798020198
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 835:
+Speed : 146.585341466
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 836:
+Speed : 166.283371663
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 837:
+Speed : 11.098890111
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 838:
+Speed : 65.293470653
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 839:
+Speed : 52.694730527
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 840:
+Speed : 15.698430157
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 841:
+Speed : 73.392660734
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 842:
+Speed : 98.390160984
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 843:
+Speed : 76.192380762
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 844:
+Speed : 24.797520248
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 845:
+Speed : 67.993200680
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 846:
+Speed : 83.091690831
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 847:
+Speed : 152.784721528
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 848:
+Speed : 49.595040496
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 849:
+Speed : 88.091190881
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 850:
+Speed : 130.486951305
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 851:
+Speed : 122.987701230
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 852:
+Speed : 129.787021298
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 853:
+Speed : 112.388761124
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 854:
+Speed : 54.494550545
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 855:
+Speed : 157.184281572
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 856:
+Speed : 21.797820218
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 857:
+Speed : 38.896110389
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 858:
+Speed : 94.390560944
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 859:
+Speed : 127.987201280
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 860:
+Speed : 147.485251475
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 861:
+Speed : 41.295870413
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 862:
+Speed : 39.096090391
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 863:
+Speed : 54.594540546
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 864:
+Speed : 14.898510149
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 865:
+Speed : 154.184581542
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 866:
+Speed : 116.388361164
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 867:
+Speed : 96.390360964
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 868:
+Speed : 165.283471653
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 869:
+Speed : 96.890310969
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 870:
+Speed : 64.293570643
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 871:
+Speed : 96.190380962
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 872:
+Speed : 170.282971703
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 873:
+Speed : 162.683731627
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 874:
+Speed : 172.382761724
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 875:
+Speed : 110.288971103
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 876:
+Speed : 145.985401460
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 877:
+Speed : 170.682931707
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 878:
+Speed : 83.191680832
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 879:
+Speed : 110.788921108
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 880:
+Speed : 78.792120788
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 881:
+Speed : 128.887111289
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 882:
+Speed : 53.894610539
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 883:
+Speed : 123.787621238
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 884:
+Speed : 61.393860614
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 885:
+Speed : 108.389161084
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 886:
+Speed : 100.989901010
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 887:
+Speed : 83.191680832
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 888:
+Speed : 62.493750625
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 889:
+Speed : 110.588941106
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 890:
+Speed : 126.387361264
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 891:
+Speed : 29.997000300
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 892:
+Speed : 67.093290671
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 893:
+Speed : 80.791920808
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 894:
+Speed : 179.882011799
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 895:
+Speed : 81.991800820
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 896:
+Speed : 150.184981502
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 897:
+Speed : 31.496850315
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 898:
+Speed : 93.590640936
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 899:
+Speed : 135.486451355
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 900:
+Speed : 128.487151285
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 901:
+Speed : 157.884211579
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 902:
+Speed : 146.885311469
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 903:
+Speed : 118.788121188
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 904:
+Speed : 55.894410559
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 905:
+Speed : 139.286071393
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 906:
+Speed : 144.385561444
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 907:
+Speed : 21.897810219
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 908:
+Speed : 129.987001300
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 909:
+Speed : 142.785721428
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 910:
+Speed : 47.895210479
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 911:
+Speed : 124.087591241
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 912:
+Speed : 91.690830917
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 913:
+Speed : 101.789821018
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 914:
+Speed : 67.893210679
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 915:
+Speed : 68.293170683
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 916:
+Speed : 30.196980302
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 917:
+Speed : 84.191580842
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 918:
+Speed : 151.584841516
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 919:
+Speed : 92.790720928
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 920:
+Speed : 14.798520148
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 921:
+Speed : 13.198680132
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 922:
+Speed : 37.996200380
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 923:
+Speed : 177.182281772
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 924:
+Speed : 93.990600940
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 925:
+Speed : 37.896210379
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 926:
+Speed : 174.382561744
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 927:
+Speed : 64.193580642
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 928:
+Speed : 69.493050695
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 929:
+Speed : 88.091190881
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 930:
+Speed : 114.888511149
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 931:
+Speed : 113.188681132
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 932:
+Speed : 161.183881612
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 933:
+Speed : 81.791820818
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 934:
+Speed : 147.185281472
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 935:
+Speed : 132.286771323
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 936:
+Speed : 41.095890411
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 937:
+Speed : 111.588841116
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 938:
+Speed : 69.393060694
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 939:
+Speed : 86.391360864
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 940:
+Speed : 74.392560744
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 941:
+Speed : 117.388261174
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 942:
+Speed : 125.687431257
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 943:
+Speed : 166.183381662
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 944:
+Speed : 39.196080392
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 945:
+Speed : 13.598640136
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 946:
+Speed : 54.494550545
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 947:
+Speed : 69.493050695
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 948:
+Speed : 12.998700130
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 949:
+Speed : 121.287871213
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 950:
+Speed : 77.492250775
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 951:
+Speed : 123.087691231
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 952:
+Speed : 49.795020498
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 953:
+Speed : 30.696930307
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 954:
+Speed : 120.287971203
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 955:
+Speed : 143.785621438
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 956:
+Speed : 68.693130687
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 957:
+Speed : 114.688531147
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 958:
+Speed : 123.287671233
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 959:
+Speed : 53.394660534
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 960:
+Speed : 117.988201180
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 961:
+Speed : 58.194180582
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 962:
+Speed : 166.583341666
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 963:
+Speed : 14.498550145
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 964:
+Speed : 55.294470553
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 965:
+Speed : 133.786621338
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 966:
+Speed : 146.785321468
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 967:
+Speed : 11.598840116
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 968:
+Speed : 160.683931607
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 969:
+Speed : 36.296370363
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 970:
+Speed : 97.990200980
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 971:
+Speed : 150.284971503
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 972:
+Speed : 153.684631537
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 973:
+Speed : 43.695630437
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 974:
+Speed : 136.486351365
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 975:
+Speed : 108.089191081
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 976:
+Speed : 152.584741526
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 977:
+Speed : 106.289371063
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 978:
+Speed : 177.582241776
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 979:
+Speed : 80.791920808
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 980:
+Speed : 142.785721428
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 981:
+Speed : 170.282971703
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 982:
+Speed : 23.897610239
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 983:
+Speed : 107.789221078
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 984:
+Speed : 21.097890211
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 985:
+Speed : 59.394060594
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 986:
+Speed : 71.692830717
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 987:
+Speed : 4.999500050
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 988:
+Speed : 174.182581742
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 989:
+Speed : 14.998500150
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 990:
+Speed : 153.584641536
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 991:
+Speed : 27.397260274
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 992:
+Speed : 168.383161684
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 993:
+Speed : 55.394460554
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 994:
+Speed : 137.086291371
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 995:
+Speed : 43.695630437
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 996:
+Speed : 104.389561044
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 997:
+Speed : 103.989601040
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 998:
+Speed : 55.394460554
+new limit :60.000000000
+Inside speed limit..Passed
+Verdict : Correct decision
+
+Pass 999:
+Speed : 85.091490851
+new limit :60.000000000
+Outside speed limit.Blocked
+Verdict : Correct decision
+
+Pass 1000:
